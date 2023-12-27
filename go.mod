@@ -1,6 +1,6 @@
 module github.com/rickcollette/cryptorandpool
 
-go 1.21.4
+go 1.21
 
 require (
 	github.com/go-redis/redis v6.15.9+incompatible
